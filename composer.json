@@ -1,0 +1,18 @@
+{
+    "name":"pedro/listar-dados",
+    "authors": [
+        {
+            "name": "pedroparro",
+            "email": "pedro@gmail.com"
+        }
+    ],
+        "autoload":{
+            "psr-4":{
+                "Models\\":"./models/",
+                "Controllers\\":"./controllers/" 
+            }
+        }
+}
+
+
+
